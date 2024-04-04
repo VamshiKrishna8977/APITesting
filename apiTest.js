@@ -53,4 +53,5 @@ function fakeDataGenerator() {
   });
 }
 
+fakeDataGenerator();
 module.export = fakeDataGenerator;
